@@ -1,2 +1,2 @@
 print("test....")
-pring(1)
+print(1)
